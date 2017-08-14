@@ -8,4 +8,12 @@ A Guide to JDBC + SQLITE APP using JLabel and BLOB Data Type
 
 ### Submit
 
-```cbalaman@uic.edu.ph```
+```
+TO: cbalaman@uic.edu.ph
+SUBJECT: LASTNAME1 LASTNAME2 DD-MM-YY SECTION
+BODY:
+    Optional Message Here...
+    Attached Files
+      - Compressed Project Folder.
+
+```
